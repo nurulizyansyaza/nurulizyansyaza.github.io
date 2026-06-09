@@ -83,6 +83,13 @@
 				</a>
 				<a href="https://ptt.nurulizyansyaza.com" target="_blank"> personal task tracker </a>
 				<a
+					href="https://employee.nurulizyansyaza.com"
+					target="_blank"
+					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
+					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
+					employee management
+				</a>
+				<a
 					href="https://thedailygrind-dev.myshopify.com/"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
@@ -189,7 +196,7 @@
 				</a>
 				<a href="https://www.pnb.com.my/en" target="_blank"> PNB </a>
 				<a
-					href="https://www.asnb.com.my/asnbv2_0index_EN.php"
+				<a href="https://www.asnb.com.my/"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
