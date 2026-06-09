@@ -195,7 +195,6 @@
 					KardAsia
 				</a>
 				<a href="https://www.pnb.com.my/en" target="_blank"> PNB </a>
-				<a
 				<a href="https://www.asnb.com.my/"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
