@@ -89,13 +89,7 @@
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
 					employee management
 				</a>
-				<a
-					href="https://thedailygrind-dev.myshopify.com/"
-					target="_blank"
-					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
-					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
-					the daily grind
-				</a>
+				<a href="https://thedailygrind-dev.myshopify.com/" target="_blank"> the daily grind </a>
 			</p>
 			<p class="font-satoshi text-sm xl:text-base text-brandNeutral-500 font-bold italic mt-8 xl:mt-12">
 				Disclaimer: <span class="font-normal">Some projects may no longer be available online due to lack of maintenance or discontinuation. If any personal projects are inaccessible, please let me know—I'd be happy to share links to my personal GitHub repositories. However, projects completed for work or clients cannot be shared due to confidentiality agreements.</span>
@@ -225,6 +219,7 @@
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
 					CRS
 				</a>
+				<a href="https://www.griitt.com/" target="_blank"> MTP </a>
 			</p>
 			<p class="font-satoshi text-sm xl:text-base text-brandNeutral-500 font-bold italic mt-8 xl:mt-12">
 				Disclaimer: <span class="font-normal">Some projects may no longer be available online due to lack of maintenance or discontinuation. If any personal projects are inaccessible, please let me know—I'd be happy to share links to my personal GitHub repositories. However, projects completed for work or clients cannot be shared due to confidentiality agreements.</span>
