@@ -239,9 +239,9 @@
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
 					rekabyte (2020)
 				</a>
-				<a href="https://www.rekabyte-technology.nurulizyansyaza.com/" target="_blank"> rekabyte technology </a>
+				<a href="https://rekabyte-technology.nurulizyansyaza.com/" target="_blank"> rekabyte technology </a>
 				<a
-					href="https://www.tonggakmega.nurulizyansyaza.com/"
+					href="https://nurulizyansyaza.com/tonggakmega/"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
