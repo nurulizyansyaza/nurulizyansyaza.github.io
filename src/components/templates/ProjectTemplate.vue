@@ -51,7 +51,7 @@
 			<p>
 				<a href="https://github.com/nurulizyansyaza/dashbuilt" target="_blank"> dashbuilt </a>
 				<a
-					href="https://github.com/nurulizyansyaza/mysume"
+					href="https://mysume.nurulizyansyaza.com"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
@@ -59,13 +59,13 @@
 				</a>
 				<a href="https://github.com/nurulizyansyaza/qutuworldwide" target="_blank"> qutu worldwide </a>
 				<a
-					href="https://github.com/nurulizyansyaza/spinny"
+					href="https://spinny.nurulizyansyaza.com"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
 					spinny
 				</a>
-				<a href="https://github.com/nurulizyansyaza/tasky" target="_blank"> tasky </a>
+				<a href="https://tasky.nurulizyansyaza.com" target="_blank"> tasky </a>
 				<a
 					href="https://www.nurulizyansyaza.com/"
 					target="_blank"
@@ -73,7 +73,7 @@
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
 					Nurul Izyan Syaza
 				</a>
-				<a href="https://github.com/nurulizyansyaza/makando" target="_blank"> makando </a>
+				<a href="https://makando.nurulizyansyaza.com" target="_blank"> makando </a>
 				<a
 					href="https://courier-service.nurulizyansyaza.com"
 					target="_blank"
