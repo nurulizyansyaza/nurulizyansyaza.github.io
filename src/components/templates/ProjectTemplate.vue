@@ -49,7 +49,7 @@
 				<div class="border border-brandNeutral-500 w-full"></div>
 			</div>
 			<p>
-				<a href="https://github.com/nurulizyansyaza/dashbuilt" target="_blank"> dashbuilt </a>
+				<a href="https://nurulizyansyaza.com/dashbuilt/" target="_blank"> dashbuilt </a>
 				<a
 					href="https://mysume.nurulizyansyaza.com"
 					target="_blank"
@@ -57,7 +57,7 @@
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
 					mysume
 				</a>
-				<a href="https://github.com/nurulizyansyaza/qutuworldwide" target="_blank"> qutu worldwide </a>
+				<a href="https://nurulizyansyaza.com/qutuworldwide/" target="_blank"> qutu worldwide </a>
 				<a
 					href="https://spinny.nurulizyansyaza.com"
 					target="_blank"
@@ -141,85 +141,86 @@
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
 					sunplay
 				</a>
+				<a href="https://mentholatumlipcare.com.my/" target="_blank"> lipcare </a>
 				<a
-					href="https://mentholatumlipcare.com.my/"
+					href="https://www.hrbolt.co"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
-					lipcare
+					hrbolt
 				</a>
-				<a href="https://www.hrbolt.co" target="_blank"> hrbolt </a>
+				<a href="https://eatsi.co.uk/" target="_blank"> EATSI </a>
 				<a
-					href="https://eatsi.co.uk/"
+					href="https://dermistry.com.my/"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
-					EATSI
+					dermistry
 				</a>
-				<a href="https://dermistry.com.my/" target="_blank"> dermistry </a>
+				<a href="https://mtbc.my/" target="_blank"> MTBC </a>
 				<a
-					href="https://mtbc.my/"
+					href="https://sayajugaanakmalaysia.my/"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
-					MTBC
+					family frontier
 				</a>
-				<a href="https://sayajugaanakmalaysia.my/" target="_blank"> family frontier </a>
+				<a href="https://www.yoodo.com.my/" target="_blank"> yoodo </a>
 				<a
-					href="https://www.yoodo.com.my/"
+					href="https://www.booking.suriaklcc.com.my/"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
-					yoodo
+					klcc
 				</a>
-				<a href="https://www.booking.suriaklcc.com.my/" target="_blank"> klcc </a>
+				<a href="https://www.booking.alamanda.com.my/" target="_blank"> alamanda </a>
 				<a
-					href="https://www.booking.alamanda.com.my/"
+					href="https://inspirenow.com.my/"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
-					alamanda
+					InspireNow
 				</a>
-				<a href="https://inspirenow.com.my/" target="_blank"> InspireNow </a>
+				<a href="https://kardasia.com/" target="_blank"> KardAsia </a>
 				<a
-					href="https://kardasia.com/"
+					href="https://www.pnb.com.my/en"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
-					KardAsia
+					PNB
 				</a>
-				<a href="https://www.pnb.com.my/en" target="_blank"> PNB </a>
-				<a href="https://www.asnb.com.my/"
-					target="_blank"
-					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
-					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
-					ASNB
-				</a>
-				<a href="https://kasihfoundation.org/" target="_blank"> Kasih Hospice Foundation </a>
+				<a href="https://www.asnb.com.my/" target="_blank"> ASNB </a>
 				<a
-					href="https://www.ctslawyers.com.my/"
+					href="https://kasihfoundation.org/"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
-					CTS Lawyers
+					Kasih Hospice Foundation
 				</a>
-				<a href="https://inka.my/" target="_blank"> INKA </a>
+				<a href="https://www.ctslawyers.com.my/" target="_blank"> CTS Lawyers </a>
 				<a
-					href="https://iicm.dataristic.com/"
+					href="https://inka.my/"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
-					IICM (staging)
+					INKA
 				</a>
-				<a href="https://sendsomething.io/" target="_blank"> SST </a>
+				<a href="https://iicm.dataristic.com/" target="_blank"> IICM (staging) </a>
 				<a
-					href="https://crs.inspirenow.com.my/"
+					href="https://sendsomething.io/"
 					target="_blank"
 					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
 					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
-					CRS
+					SST
 				</a>
-				<a href="https://www.griitt.com/" target="_blank"> MTP </a>
+				<a href="https://crs.inspirenow.com.my/" target="_blank"> CRS </a>
+				<a
+					href="https://www.griitt.com/"
+					target="_blank"
+					class="italic text-brandPrimaryWhite dark:text-brandNeutral-800 text-stroke sm:text-stroke-2"
+					:class="isDarkMode ? 'text-stroke-brandPrimaryWhite' : 'text-stroke-brandNeutral-800'">
+					MTP
+				</a>
 			</p>
 			<p class="font-satoshi text-sm xl:text-base text-brandNeutral-500 font-bold italic mt-8 xl:mt-12">
 				Disclaimer: <span class="font-normal">Some projects may no longer be available online due to lack of maintenance or discontinuation. If any personal projects are inaccessible, please let me know—I'd be happy to share links to my personal GitHub repositories. However, projects completed for work or clients cannot be shared due to confidentiality agreements.</span>
@@ -231,7 +232,7 @@
 				<div class="border border-brandNeutral-500 w-full"></div>
 			</div>
 			<p>
-				<a href="https://github.com/nurulizyansyaza/yangedruce-archive" target="_blank"> yang edruce </a>
+				<a href="https://nurulizyansyaza.com/yangedruce-archive/" target="_blank"> yang edruce </a>
 				<a
 					href="https://www.rekabyte.nurulizyansyaza.com/"
 					target="_blank"
