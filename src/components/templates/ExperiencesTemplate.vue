@@ -61,7 +61,7 @@
 				</p>
 				<Divider />
 				<div class="block xl:hidden px-4 xl:px-8">
-					<p class="font-satoshi font-bold text-base xl:text-xl text-brandPrimaryWhite">Senior Web Developer</p>
+					<p class="font-satoshi font-bold text-base xl:text-xl text-brandPrimaryWhite">Web Developer</p>
 					<p class="font-satoshi text-sm xl:text-base text-brandPrimaryWhite">June 2025 - Present</p>
 					<ul class="font-satoshi text-sm xl:text-base list-outside list-disc ml-3 xl:ml-4">
 						<li :class="bulletItemClasses" v-for="item in bulletPointsTodakSeniorWebDeveloper" :key="item">
@@ -85,7 +85,7 @@
 				</div>
 			</div>
 			<div :class="rightExperienceClasses">
-				<p class="font-satoshi font-bold text-base xl:text-xl text-brandPrimaryWhite -mt-3">Senior Web Developer</p>
+				<p class="font-satoshi font-bold text-base xl:text-xl text-brandPrimaryWhite -mt-3">Web Developer</p>
 				<p class="font-satoshi text-sm xl:text-base text-brandPrimaryWhite">June 2025 - Present</p>
 				<ul class="font-satoshi text-sm xl:text-base list-outside list-disc ml-3 xl:ml-4">
 					<li :class="bulletItemClasses" v-for="item in bulletPointsTodakSeniorWebDeveloper" :key="item">
